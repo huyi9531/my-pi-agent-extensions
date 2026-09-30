@@ -1,0 +1,18 @@
+{
+  "content": "画面中一位留着短发的年轻女孩正微笑着看向镜头，背景是模糊的室外场景。视频伴随着一首节奏欢快的流行歌曲，可以听到女声在演唱。",
+  "reasoning": "",
+  "usage": {
+    "completion_tokens": 36,
+    "completion_tokens_details": {
+      "text_tokens": 36
+    },
+    "prompt_tokens": 1909,
+    "prompt_tokens_details": {
+      "audio_tokens": 93,
+      "cached_tokens": 0,
+      "text_tokens": 22,
+      "video_tokens": 1794
+    },
+    "total_tokens": 1945
+  }
+}

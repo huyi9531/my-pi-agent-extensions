@@ -1,0 +1,6 @@
+node_modules/
+*.tgz
+.npmrc
+
+# 本机版 tsconfig.json 含个人机器绝对路径，不入库（贡献者用 tsconfig.portable.json）
+tsconfig.json

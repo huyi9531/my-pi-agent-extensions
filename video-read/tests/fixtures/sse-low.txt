@@ -1,0 +1,218 @@
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","created":1790565111,"object":"chat.completion.chunk","usage":null,"choices":[{"logprobs":null,"index":0,"delta":{"content":"","role":"assistant","reasoning_content":""},"finish_reason":null}]}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"用户"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"要求用"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"两句话说明"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"画面和声音。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"我需要观察视频内容"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"：画面是一位"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"短发年轻"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"女性对着"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"镜头微笑"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"说话/"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"唱歌，背景是"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"模糊的建筑"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"，右上角"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"有“"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"通义·AI"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"合成”"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"水印。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"声音是一"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"首中文"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"歌曲（"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"女声"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"演唱，"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"歌词涉及"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"“春"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"”"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"“"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"春风"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"得意"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"正"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"少年”"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"等）。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"我"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"需要用两"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"句话"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"分别"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"概括画面"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"和"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"声音，"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"语言简洁"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"完整、自"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"包含。\n\n"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"我先写"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"画面"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"："},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"AI"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"合成的"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"短发"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"少女"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"在户外"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"建筑"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"前"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"对"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"镜头微笑歌唱"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"。再"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"写声音："},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"轻快的"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"中文女声流行"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"歌曲，歌词"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"描绘"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"春天与"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"少年意气。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"合并"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"成两"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"句话即可"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"reasoning_content":"。\n"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"画面"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"中是一位留着"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"棕色短发"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"、身穿"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"粉色针织"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"开衫的年轻"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"女孩，"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"在虚"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"化的户外"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"建筑背景"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"前对着"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"镜头微笑"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"并"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"开口歌唱，右上角"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"标"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"有\"通"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"义·AI合成"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"\"字样"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"。声音"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"是一"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"首节奏"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"轻快的"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"中文女"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"声流行歌曲，"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"歌词以"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"\"春"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"\"字"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"贯穿、"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"唱着"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"\"春风"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"得意正"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"少年\""},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"等春日"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"意象，"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"与女孩"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"明朗"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"的笑容"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"相"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"配合"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":"。"},"index":0,"finish_reason":null,"logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"model":"qwen3.8-omni-flash","id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","choices":[{"delta":{"content":""},"index":0,"finish_reason":"stop","logprobs":null}],"created":1790565111,"object":"chat.completion.chunk","usage":null}
+
+data: {"choices":[],"created":1790565111,"id":"chatcmpl-c4f43bf6-17c7-9fb6-b7b8-9628832e4578","model":"qwen3.8-omni-flash","object":"chat.completion.chunk","usage":{"completion_tokens":209,"completion_tokens_details":{"reasoning_tokens":127,"text_tokens":82},"prompt_tokens":1937,"prompt_tokens_details":{"audio_tokens":93,"cached_tokens":0,"text_tokens":50,"video_tokens":1794},"total_tokens":2146}}
+
+data: [DONE]
+

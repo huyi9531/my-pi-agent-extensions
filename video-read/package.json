@@ -1,0 +1,56 @@
+{
+  "name": "pi-video-read",
+  "version": "0.1.0",
+  "description": "pi 扩展：用 qwen3.8-omni-flash 读视频（画面 + 声音/口播转写）。本地文件自动分流 base64 内联或百炼官方临时上传，也支持 http(s) / oss:// 输入；quick/standard/fine 三档。",
+  "keywords": [
+    "pi-package",
+    "pi-extension",
+    "pi",
+    "video",
+    "video-understanding",
+    "multimodal",
+    "omni",
+    "qwen",
+    "dashscope",
+    "bailian"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=22.19.0"
+  },
+  "pi": {
+    "extensions": ["./index.ts"]
+  },
+  "files": [
+    "index.ts",
+    "config.ts",
+    "media.ts",
+    "qwen-omni.ts",
+    "render.ts",
+    "text.ts",
+    "uploads.ts",
+    "tests/",
+    "tsconfig.portable.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test \"tests/*.test.ts\"",
+    "typecheck": "tsc -p tsconfig.portable.json",
+    "typecheck:local": "tsc -p tsconfig.json",
+    "prepack": "npm test"
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*",
+    "@earendil-works/pi-tui": "*",
+    "typebox": "*"
+  },
+  "devDependencies": {
+    "@earendil-works/pi-coding-agent": "^0.87.1",
+    "@earendil-works/pi-tui": "^0.87.1",
+    "@types/node": "^24.0.0",
+    "typebox": "^1.3.34",
+    "typescript": "^7.0.2"
+  }
+}
